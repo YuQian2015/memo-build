@@ -1,4 +1,5 @@
-![MemoAI Logo](https://vip2.loli.io/2023/08/12/U46e1nEJz2XIxLl.png)
+![MemoAI Logo](https://cdn.sa.net/2024/03/06/Pfi6szMhvJxAUBd.png)
+
 
 **MemoAI** Video to translated text, subtitles and notes made easy.
 
